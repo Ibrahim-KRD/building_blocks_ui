@@ -30,7 +30,7 @@ Feel free to raise issues, contribute, or provide feedback. Happy coding, and en
 
 ## About Me
 
-Hi, I'm [Your Name], your guide on this Jetpack Compose adventure. I've been working in Android development for [X years], and I'm passionate about sharing knowledge and empowering developers to create amazing user experiences.
+Hi, I'm Ibrahim KRIDI, your guide on this Jetpack Compose adventure. I've been working in Android development for 3 years -started at 2020-, and I'm passionate about sharing knowledge and empowering developers to create amazing user experiences.
 
 Connect with me:
 - [LinkedIn](Your LinkedIn Profile Link)
